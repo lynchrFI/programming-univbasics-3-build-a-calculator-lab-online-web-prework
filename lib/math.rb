@@ -22,6 +22,6 @@ num2 / num1
 >>>>>>> 73f9eb2a729c5f6efdb685225ada0d56e8b179b7
 end
 
-def square_root(num)
+def sqare_root(num)u
 Math.sqrt(num)
 end
